@@ -159,7 +159,7 @@ class penumpang {
 }
 
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         int pilihan = 0;      
 
         bus b1 = new bus("AE 6365 YZ", "Mercedes", 8, 1);
